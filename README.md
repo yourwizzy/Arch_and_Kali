@@ -2,4 +2,4 @@
 
 Необходимые команды 
 
-"sudo pacman -Sy && sudo pacman -S wget"
+```sudo pacman -Sy && sudo pacman -S wget```
